@@ -29,3 +29,5 @@ The purpose is to analyze customer purchasing transactions and gain insight into
 - Window Functions.
 - Toad.
 - Power BI.
+
+![image](snapShot/retail.png)
